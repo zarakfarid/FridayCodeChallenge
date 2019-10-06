@@ -1,0 +1,5 @@
+com/friday/Application.class
+com/friday/constants/AddressProviderConstants.class
+com/friday/pojo/AddressResponse.class
+com/friday/utils/CommonUtils.class
+com/friday/processor/AddressProcessor.class

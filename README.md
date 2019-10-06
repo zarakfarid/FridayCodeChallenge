@@ -47,4 +47,4 @@ I have taken into account four cases and resolved those:
 3. Address starting from text
 4. Address starting from text with digits in the middle
 
-The actual application might have a scoring system (not implemented) using an external api (google maps etc) to verify the results and score the output, the result with the highest score is ouputed as the final outcome.
+The actual application might have a scoring system (not implemented) using an external api (google maps etc) to verify the results and score the output, the result with the highest score is outputed as the final outcome.
